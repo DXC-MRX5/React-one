@@ -1,0 +1,17 @@
+.boxC {
+    display: inline-block;
+    text-align: center;
+    width: 650px;
+    height: 350px;
+    padding-top: 30px;
+    border: 3px solid black;
+    border-radius: 40px;
+    background-color: rgb(171, 138, 202);
+    line-height: 50px;
+}
+.boxC h2 {
+    font-size: 40px;
+}
+.boxC p {
+    font-size: 25px;
+}
